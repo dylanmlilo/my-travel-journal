@@ -14,6 +14,9 @@ The application displays a list of travel destinations such as:
 - Sydney Opera House (Australia)
 - Geirangerfjord (Norway)
 
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/6e392018-36e5-46de-90e2-a911a29a9c74" />
+
+
 Each destination is presented with an image on the left and detailed information on the right.
 
 ---
